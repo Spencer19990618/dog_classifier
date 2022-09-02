@@ -7,7 +7,7 @@ The goal of the project is to classify the breed of dog within 133 genres with t
 ```shell
 $ pip install -r requirements.txt 
 ```
-2. Download the [pre-trained models](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG19Data.npz) to you folder
+2. Download the [pre-trained models](https://drive.google.com/file/d/19vfusnKtNDW91MG57DvTsXDIDFZaAquL/view?usp=sharing) to you folder
 3. run the code and start classifying the dog breed
 ```shell
 $ python test.py -p <image path> -n <name of outcome file> -m <model>
