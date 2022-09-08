@@ -21,6 +21,20 @@ You can also train the models your self. Please follow the steps below:
 ```shell=
 $ python main.py
 ```
+
+# Outcome demo
+## InceptionV3
+![image alt](https://github.com/Spencer19990618/dog_classifier/blob/main/img/outcomeI.png?raw=true)
+
+## Xception
+![image alt](https://github.com/Spencer19990618/dog_classifier/blob/main/img/outcomeX.png?raw=true)
+
+## Resnet50
+![image alt](https://github.com/Spencer19990618/dog_classifier/blob/main/img/outcomeR.png?raw=true)
+
+## Resnet50V2
+![image alt](https://github.com/Spencer19990618/dog_classifier/blob/main/img/outcomeR2.png?raw=true)
+
 ## Reference
 https://medium.com/@psiodoros/dog-breed-classification-using-cnns-b065913527c
 
